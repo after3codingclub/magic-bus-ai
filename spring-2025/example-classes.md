@@ -1,5 +1,6 @@
 <h2>Example Courses</h2>
 <p>SCIENCE LESSON PROMPT</p>
+<p>LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</p>
 <h4>DESCRIPTION</h4>
 <p>In this lesson we will use the 5E Model Lesson Plan to create a science experient illustrating the phenomena of static electricity. 
 Following testing the prompt response, students will be assigned the task to create their own science experiment using the 5E Model Lesson Plan</p>
@@ -9,3 +10,4 @@ Following testing the prompt response, students will be assigned the task to cre
 <li>conducting experiments based on prompts to ensure validity/fidelity of prompt response</li>
 <li>understanding how to provide good examples of prompts</li>
 </ul>
+<p></p>
