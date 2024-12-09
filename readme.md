@@ -8,10 +8,10 @@ Magic School Video Demo
 
 STUDENT GOALS
 <ul>
-  <li></li>Learn about how to responsibly use AI
-<li></li>Learn the basics of Generative AI and Large Language Models,
-<li></li>Build generative AI software which have real-world applications
-<li></li>Leverage AI to build creative projects
+  <li>Learn about how to responsibly use AI</li>
+<li>Learn the basics of Generative AI and Large Language Models,</li>
+<li>Build generative AI software which have real-world applications</li>
+<li>Leverage AI to build creative projects</li>
 AI ETHICS
   <ul>
 <li>the ethics of using AI</li>
