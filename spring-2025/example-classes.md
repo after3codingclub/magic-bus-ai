@@ -1,6 +1,6 @@
 <h2>Example Courses</h2>
 <p>the following three courses are presented for peer review for the parents</br>
-<p>Class One: Science Prompt</p>
+<p>SCIENCE LESSON PROMPT</p>
 In this course we will present students with an example of how to build a class learning static electricity using AI</p>
 <h4>DESCRIPTION</h4>
 <p>In this lesson we will use the 5E Model Lesson Plan to create a science experient illustrating the phenomena of static electricity. 
