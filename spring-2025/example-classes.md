@@ -1,4 +1,4 @@
-<h2>Example Courses</h2>
+<h2>MAGIC BUS AI Example Courses</h2>
 <h3>SCIENCE LESSON PROMPT</h3>
 <p>A science experiment illustrating the phenomena of static electricity</p>
 <p>GOALS</p>
