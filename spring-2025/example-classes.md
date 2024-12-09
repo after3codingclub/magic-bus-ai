@@ -10,4 +10,10 @@ Following testing the prompt response, students will be assigned the task to cre
 <li>conducting experiments based on prompts to ensure validity/fidelity of prompt response</li>
 <li>understanding how to provide good examples of prompts</li>
 </ul>
-<p></p>
+<p>ROLE PLAY : CREATING A CHATBOT</p>
+<p>DESCRIPTION</p>
+<p>In this lesson we will share two chatbot examples: 
+<ul><li>Pastry Chef Recipe Chatbot</li>
+<li>3rd Grade Aerospace Engineer Chatbot</li>
+</ul>
+students will interact with these two chatbots, and then be prompted to design their own using the ROLE PLAY tool</p>
