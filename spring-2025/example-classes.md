@@ -17,3 +17,9 @@ Following testing the prompt response, students will be assigned the task to cre
 <li>3rd Grade Aerospace Engineer Chatbot</li>
 </ul>
 students will interact with these two chatbots, and then be prompted to design their own using the ROLE PLAY tool</p>
+<h4>GOALS</h4>
+<ul>
+  <li>
+    understanding the fundamentals of creating a chatbot using prompts
+  </li>
+<li>understanding appropriate use cases for creating chatbots</li></ul>
