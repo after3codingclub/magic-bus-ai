@@ -30,5 +30,6 @@
 </ul>
 <ul>
 <li>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=7iSMaA</li>
+<li>OUTPUT LINK: https://app.magicschool.ai/rooms/7005e0ea-cb41-4d46-84e8-754dc1907d64</li>
 </ul>
 
