@@ -15,16 +15,12 @@
   <li>Interacting w Aerospace Engineer Chatbot</li>
 <li>Building a chatbot using good prompts</li>
 </ul>
-<p>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=PHDzag<br>
-OUTPUT LINK: https://app.magicschool.ai/rooms/bc49d566-9c55-4f1a-8ebb-9d4a9975323d</p>
-<h4>GOALS</h4>
-<ul>
-  <li>
-    understanding the fundamentals of creating a chatbot using prompts
-  </li>
-<li>understanding appropriate use cases for creating chatbots</li></ul>
-<p>TRANSLATIONS</p>
-<p>Classroom Link: https://student.magicschool.ai/s/join?joinCode=7iSMaA</p>
+<ul><li>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=PHDzag</li>
+<li>OUTPUT LINK: https://app.magicschool.ai/rooms/bc49d566-9c55-4f1a-8ebb-9d4a9975323d</li></ul>
+<h3>TRANSLATIONS</h3>
+
 <p>DESCRIPTION</p>
 <p>we will see how a text can be translated from it's language of origin to a preferred language.</p>
 <p>EXAMPLE: https://poets.org/poem/woman-sleeps-island</p>
+<p>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=7iSMaA</p>
+<
