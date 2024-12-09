@@ -1,5 +1,5 @@
 <h2>Example Courses</h2>
-<p>SCIENCE LESSON PROMPT</p>
+<h3>SCIENCE LESSON PROMPT</h3>
 <p>LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</p>
 <h4>DESCRIPTION</h4>
 <p>In this lesson we will use the 5E Model Lesson Plan to create a science experiment illustrating the phenomena of static electricity. 
@@ -10,7 +10,7 @@
 <li>conducting experiments based on prompts to ensure validity/fidelity of prompt response</li>
 <li>understanding how to provide good examples of prompts</li>
 </ul>
-<p>ROLE PLAY : CREATING A CHATBOT</p>
+<h3>ROLE PLAY : CREATING A CHATBOT</h3>
 <p>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=PHDzag<br>
 OUTPUT LINK: https://app.magicschool.ai/rooms/bc49d566-9c55-4f1a-8ebb-9d4a9975323d</p>
 <p>DESCRIPTION</p>
