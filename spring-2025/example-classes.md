@@ -11,6 +11,8 @@ Following testing the prompt response, students will be assigned the task to cre
 <li>understanding how to provide good examples of prompts</li>
 </ul>
 <p>ROLE PLAY : CREATING A CHATBOT</p>
+<p>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=PHDzag</p>
+<p>OUTPUT LINK: https://app.magicschool.ai/rooms/bc49d566-9c55-4f1a-8ebb-9d4a9975323d</p>
 <p>DESCRIPTION</p>
 <p>In this lesson we will share two chatbot examples: 
 <ul><li>Pastry Chef Recipe Chatbot</li>
@@ -24,3 +26,7 @@ students will interact with these two chatbots, and then be prompted to design t
   </li>
 <li>understanding appropriate use cases for creating chatbots</li></ul>
 <p>TRANSLATIONS</p>
+<p>Classroom Link: https://student.magicschool.ai/s/join?joinCode=7iSMaA</p>
+<p>DESCRIPTION</p>
+<p>we will see how a text can be translated from it's language of origin to a preferred language.</p>
+<p>EXAMPLE: https://poets.org/poem/woman-sleeps-island</p>
