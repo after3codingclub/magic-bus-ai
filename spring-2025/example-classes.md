@@ -2,7 +2,7 @@
 <p>SCIENCE LESSON PROMPT</p>
 <p>LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</p>
 <h4>DESCRIPTION</h4>
-<p>In this lesson we will use the 5E Model Lesson Plan to create a science experient illustrating the phenomena of static electricity. 
+<p>In this lesson we will use the 5E Model Lesson Plan to create a science experiment illustrating the phenomena of static electricity. 
 Following testing the prompt response, students will be assigned the task to create their own science experiment using the 5E Model Lesson Plan</p>
 <h4>GOALS</h4>
 <ul>
