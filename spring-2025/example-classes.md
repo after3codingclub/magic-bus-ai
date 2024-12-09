@@ -1,4 +1,4 @@
-<h1>Three Eaxmple Courses</h1>
+<h2>Example Courses</h2>
 <p>the following three courses are presented for peer review for the parents</p>
 <h4>Class One: Science Prompt</h4>
 <p>In this course we will present students with an example of how to build a class learning static electricity using AI</p>
