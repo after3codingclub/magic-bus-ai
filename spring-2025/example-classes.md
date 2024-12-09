@@ -6,8 +6,8 @@
 <li>Showing the ideation process using AI</li>
 <li>Conducting experiments based on prompts</li>
 <li>ensuring validity/fidelity of responses</li>
-<li>LESSON LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</li>
 </ul>
+<ul><li>LESSON LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</li></ul>
 <h3>ROLE PLAY : CREATING A CHATBOT</h3>
 <p>GOALS<br>
 <ul>
