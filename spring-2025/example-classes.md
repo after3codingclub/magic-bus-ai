@@ -23,3 +23,4 @@ students will interact with these two chatbots, and then be prompted to design t
     understanding the fundamentals of creating a chatbot using prompts
   </li>
 <li>understanding appropriate use cases for creating chatbots</li></ul>
+<p>TRANSLATIONS</p>
