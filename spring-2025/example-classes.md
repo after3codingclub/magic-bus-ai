@@ -11,8 +11,8 @@
 <li>understanding how to provide good examples of prompts</li>
 </ul>
 <p>ROLE PLAY : CREATING A CHATBOT</p>
-<p>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=PHDzag</p>
-<p>OUTPUT LINK: https://app.magicschool.ai/rooms/bc49d566-9c55-4f1a-8ebb-9d4a9975323d</p>
+<p>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=PHDzag<br>
+OUTPUT LINK: https://app.magicschool.ai/rooms/bc49d566-9c55-4f1a-8ebb-9d4a9975323d</p>
 <p>DESCRIPTION</p>
 <p>In this lesson we will share two chatbot examples: 
 <ul><li>Pastry Chef Recipe Chatbot</li>
