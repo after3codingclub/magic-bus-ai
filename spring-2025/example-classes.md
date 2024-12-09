@@ -1,6 +1,6 @@
 <h2>Example Courses</h2>
 <h3>SCIENCE LESSON PROMPT</h3>
-<p>Create a science experiment illustrating the phenomena of static electricity.</p>
+<p>Creating a science experiment illustrating the phenomena of static electricity</p>
 <p>GOALS</p>
 <ul>
 <li>Showing the ideation process using AI</li>
