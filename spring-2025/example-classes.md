@@ -9,9 +9,10 @@
 </ul>
 <p>LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</p>
 <h3>ROLE PLAY : CREATING A CHATBOT</h3>
-<p>Creating a chatbot</p> 
-<ul>Examples:<li>Pastry Chef Recipe Chatbot</li>
-<li>3rd Grade Aerospace Engineer Chatbot</li>
+<p>GOALS<br>
+<ul>
+<li>Interacting w Pastry Chef Recipe and 3rd Grade Aerospace Engineer Chatbot</li>
+<li>Building a chatbot using good prompts</li>
 </ul>
 <p>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=PHDzag<br>
 OUTPUT LINK: https://app.magicschool.ai/rooms/bc49d566-9c55-4f1a-8ebb-9d4a9975323d</p>
