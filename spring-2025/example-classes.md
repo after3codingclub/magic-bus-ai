@@ -11,6 +11,7 @@
 <li>LESSON LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</li>
 </ul>
 <h3>ROLE PLAY : CREATING A CHATBOT</h3>
+<p>Understanding building chatbots and good prompt practices</p>
 <p>GOALS</p>
 <ul>
 <li>Interacting w Pastry Chef Recipe</li> 
