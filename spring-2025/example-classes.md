@@ -11,7 +11,8 @@
 <h3>ROLE PLAY : CREATING A CHATBOT</h3>
 <p>GOALS<br>
 <ul>
-<li>Interacting w Pastry Chef Recipe and 3rd Grade Aerospace Engineer Chatbot</li>
+<li>Interacting w Pastry Chef Recipe</li> 
+  <li>Interacting w Aerospace Engineer Chatbot</li>
 <li>Building a chatbot using good prompts</li>
 </ul>
 <p>JOIN LINK: https://student.magicschool.ai/s/join?joinCode=PHDzag<br>
