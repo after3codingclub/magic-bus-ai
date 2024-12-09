@@ -7,7 +7,7 @@
 <li>Conducting experiments based on prompts</li>
   <li>ensuring validity/fidelity of responses</li>
 </ul>
-<p>LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</p>
+<p>LESSON LINK: https://app.magicschool.ai/tools/5e-science?share=92133de0-57d9-4449-b4b7-06492a7f9a51</p>
 <h3>ROLE PLAY : CREATING A CHATBOT</h3>
 <p>GOALS<br>
 <ul>
